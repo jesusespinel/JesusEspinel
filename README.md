@@ -1,4 +1,4 @@
- <title>Hi 👋, I'm Jesús Espinel</title>
+            Hi 👋, I'm Jesús Espinel
 
 
 I am 27 years old, Colombian ,passionate by the technology,recently graduated from a bootcamp "SOY HENRY", with more than 700 hours in the field of web development and programming.
