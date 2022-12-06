@@ -19,13 +19,26 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>    
 </div>
-            
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+---
 
-I am 27 years old, Colombian ,passionate by the technology,recently graduated from a bootcamp "SOY HENRY", with more than 700 hours in the field of web development and programming.
+### :man_technologist: About Me :
+ 
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colombia.
+
+- :telescope: I’m 27 years old, passionate by the technology,recently graduated from a bootcamp "SOY HENRY", with more than 700 hours in the field of web development and programming. I considered me a person with logical thinking, self-taught and dedicated. I get along very well working in a team, since I really like to cooperate and it is the best way to learn as well as share the knowledge acquired.
+
+- :seedling: I’m currently learning TypeScript and React Native.
+
+- :zap: In my free time, I solve problems on CodeWars and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jes%C3%BAs-espinel-9794411ab/)
+
 
 I considered me a person with logical thinking, self-taught and dedicated. I get along very well working in a team, since I really like to cooperate and it is the best way to learn as well as share the knowledge acquired.
 
-- 🌱 I’m currently learning TypeScript and React Native
 - 💬 Ask me about JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, Sequelize, MongoDb, Mongoose.
 - 📫 How to reach me: jesusdespinelm@gmail.com
 
