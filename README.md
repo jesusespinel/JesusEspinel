@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi 👋, I'm Jesús Espinel
 
-<!--
-**jesusespinel/JesusEspinel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am 27 years old, Colombian ,passionate by the technology,recently graduated from a bootcamp "SOY HENRY", with more than 700 hours in the field of web development and programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I considered me a person with logical thinking, self-taught and dedicated. I get along very well working in a team, since I really like to cooperate and it is the best way to learn as well as share the knowledge acquired.
+
+- 🌱 I’m currently learning TypeScript and React Native
+- 💬 Ask me about JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, Sequelize, MongoDb, Mongoose.
+- 📫 How to reach me: jesusdespinelm@gmail.com
+
+LANGUAGUES AND TOOLS:
+https://getbootstrap.com/
